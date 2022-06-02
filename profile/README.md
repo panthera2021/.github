@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+We're team 17334 Panthera Robotica from Hellertown, PA.
+We've done lots of cool things!
+Anyways, this is our github org.
 <!--
 
 **Here are some ideas to get you started:**
